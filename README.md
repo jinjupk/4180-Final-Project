@@ -2,7 +2,7 @@
 
 Pearl Park \
 Lawrence Ro \
-Swarna Shah \
+Swarna Shah 
 
 ## Overview
 
@@ -11,18 +11,17 @@ The Contactless Car Unlocking System allows a user to unlock a car with a specif
 ## Components
 - Mbed
 - uLCD
-- Servo motor
+- 5V Relay
 - NFC reader
-- Voltage regulator
 - Custom PCB
 - 3D printed housing
 
 ## Schematic
 
 ## Hardware
-
-insert image of pcb with all parts connected and labeled
-
+- 4-layer PCB
+- LTM8053 Switching Regulator (integrated inductor, 6A max output current)
+- Dual LP38692 LDO Voltage Regulator (1A output, separate for servo and microcontroller power)
 
 ## Software
 
