@@ -1,5 +1,8 @@
 # Contactless Car Unlocking System [ECE 4180 Final Project]
 
+Georgia Institute of Technology
+ECE 4180 (Embedded Systems Design)
+
 Pearl Park \
 Lawrence Ro \
 Swarna Shah 
