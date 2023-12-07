@@ -8,7 +8,7 @@ Swarna Shah
 
 The Contactless Car Unlocking System allows a user to unlock a car with a specific NFC card instead of using a physical key. In the following demonstration, a Buzzcard student ID is scanned at the sensor location to remotely press the unlock button inside of the car using a 5V relay. The system is powered by the car’s battery which is stepped down to a low enough voltage with a voltage regulator. All components are interfaced through a custom printed circuit board (PCB) and housed in a 3D printed enclosure.
 
-![Finished_enclosure](https://github.com/jinjupk/4180-Final-Project/assets/84649940/3e1d07ac-136f-4941-82bd-13aae0f39d61)
+<img width="623" alt="image" src="https://github.com/jinjupk/4180-Final-Project/assets/84649940/1b4081ca-8d57-4e15-b276-a4e61ceaf6de">
 
 ## Components
 - MBED LPC1768
@@ -34,6 +34,7 @@ The Contactless Car Unlocking System allows a user to unlock a car with a specif
 ## Software
 
 <img width="772" alt="image" src="https://github.com/jinjupk/4180-Final-Project/assets/84649940/6ec4ba2e-4283-4992-b49e-cfa5d3996012">
+
 - Three threads
 - Main - Initializes uLCD and NFC scanner threads
 - uLCD - Displays invalid card and card accepted messages according to card scanned
