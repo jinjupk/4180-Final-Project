@@ -17,7 +17,7 @@ The Contactless Car Unlocking System allows a user to unlock a car with a specif
 - MBED LPC1768
 - uLCD-144-G2 128 by 128 Smart Color LCD
 - 5V relay
-- NFC reader
+- PN532 NFC reader
 - Custom PCB
 - 3D printed housing
 
