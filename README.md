@@ -34,6 +34,8 @@ The Contactless Car Unlocking System allows a user to unlock a car with a specif
 
 <img width="300" alt="image" src="https://github.com/jinjupk/4180-Final-Project/assets/84649940/1662e17f-f3a3-4a4a-bc73-dae7046b8dbb">
 
+<img width="300" alt="image" src="https://github.com/jinjupk/4180-Final-Project/assets/67740649/45c3ca0f-bf4f-47bc-aeb3-d640ea21835d">
+
 ## Software
 
 <img width="772" alt="image" src="https://github.com/jinjupk/4180-Final-Project/assets/84649940/6ec4ba2e-4283-4992-b49e-cfa5d3996012">
