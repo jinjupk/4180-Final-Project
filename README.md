@@ -42,3 +42,7 @@ The Contactless Car Unlocking System allows a user to unlock a car with a specif
 - Main - Initializes uLCD and NFC scanner threads
 - uLCD - Displays invalid card and card accepted messages according to card scanned
 - NFC Reader - Asks scanner for ID of card scanned; checks against known ID
+
+## Video Demo
+
+[![IMAGE ALT TEXT HERE](https://img.youtu.be/it5jC_XB_L4/0.jpg)](https://youtu.be/it5jC_XB_L4)
