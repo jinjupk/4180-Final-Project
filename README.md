@@ -45,4 +45,4 @@ The Contactless Car Unlocking System allows a user to unlock a car with a specif
 
 ## Video Demo
 
-[![Unlocking a Car](https://img.youtube/it5jC_XB_L4/0.jpg)](https://youtu.be/it5jC_XB_L4)
+[![Unlocking a Car](img.youtube/it5jC_XB_L4/0.jpg)](https://youtu.be/it5jC_XB_L4)
