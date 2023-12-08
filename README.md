@@ -41,10 +41,10 @@ The Contactless Car Unlocking System allows a user to unlock a car with a specif
 
 <img width="772" alt="image" src="https://github.com/jinjupk/4180-Final-Project/assets/84649940/6ec4ba2e-4283-4992-b49e-cfa5d3996012">
 
-- Three threads
-- Main - Initializes uLCD and NFC scanner threads
-- uLCD - Displays invalid card and card accepted messages according to card scanned
-- NFC Reader - Asks scanner for ID of card scanned; checks against known ID
+The program runs in three separate threads to manage the NFC scanner and uLCD at the same time. 
+- Main Thread - Initializes uLCD and NFC scanner threads.
+- uLCD Thread - Displays invalid card and card accepted messages according to card scanned.
+- NFC Reader - Asks scanner for ID of card scanned and checks it against a known ID.
 
 ## Video Demo
 
