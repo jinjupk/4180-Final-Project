@@ -42,7 +42,7 @@ A custom 4-layer PCB includes power management, the microcontroller, and periphe
 
 ## Software
 
-<img width="772" alt="image" src="https://github.com/jinjupk/4180-Final-Project/assets/84649940/6ec4ba2e-4283-4992-b49e-cfa5d3996012">
+<img width="548" alt="image" src="https://github.com/jinjupk/4180-Final-Project/assets/91440462/61d4e803-2a28-473d-bcd3-cc61959a47a5">
 
 The program runs in three separate threads to manage the NFC scanner and uLCD at the same time. 
 - Main Thread - Initializes uLCD and NFC scanner threads.
